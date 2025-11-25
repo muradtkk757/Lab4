@@ -46,16 +46,6 @@
 ////        Console.Write("İkinci Ededi daxil edin: ");
 ////        int b = int.Parse(Console.ReadLine());
 
-////        Console.WriteLine("Add: " + m.Add(a, b));
-////        Console.WriteLine("Subtract" + m.Subtract(a, b));
-////        Console.WriteLine("Multiply: " + m.Multiply(a, b));
-////    }
-////}
-////public class Program
-////{
-////    public static void Main()
-////    {
-////        Library lib = new Library();
 
 
 ////        Book myBook = lib.CreateBookFromUser();
