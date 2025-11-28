@@ -1,7 +1,8 @@
-﻿namespace Lab4;
-//{ 
-//public class Book
+﻿//namespace Lab4
 //{
+
+// public class Book
+// {
 //    private string _title = "";
 //    public string Title
 //    {
@@ -13,9 +14,10 @@
 //    public string Author
 //    {
 //        get { return _author; }
-//        set { _author = value ; }
+//        set { _author = value; }
 //    }
 
 //    public int Pages { get; set; }
-//}
+// }
+
 //}

@@ -1,5 +1,4 @@
 ﻿//namespace Lab4
-
 //{
 //    public static class Helper
 //    {

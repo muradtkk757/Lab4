@@ -1,20 +1,22 @@
-﻿namespace Lab4;
-//class User
+﻿//namespace Lab4
 //{
-//    private string _password;
-
-//    public string Password
+//    class User
 //    {
-//        get { return _password; }
-//        set
+//        private string _password;
+
+//        public string Password
 //        {
-//            if (value.Length < 6)
+//            get { return _password; }
+//            set
 //            {
-//                Console.WriteLine("Password too short");
-//            }
-//            else
-//            {
-//                _password = value;
+//                if (value.Length < 6)
+//                {
+//                    Console.WriteLine("Password too short");
+//                }
+//                else
+//                {
+//                    _password = value;
+//                }
 //            }
 //        }
 //    }
